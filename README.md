@@ -1,4 +1,4 @@
 # Gladiator
 my first repo.
 Beginner coder.
-i'm still learning
+This is my webiste about dogs
